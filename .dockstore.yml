@@ -1,0 +1,5 @@
+tools:
+  - subclass: cwl
+    primaryDescriptorPath: /Dockstore.cwl
+    testParameterFiles:
+      - /test.json
