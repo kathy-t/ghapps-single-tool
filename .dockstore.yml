@@ -1,3 +1,4 @@
+version: 1.2
 tools:
   - subclass: cwl
     primaryDescriptorPath: /Dockstore.cwl
