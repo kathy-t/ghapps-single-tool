@@ -3,3 +3,5 @@ tools:
     primaryDescriptorPath: /Dockstore.cwl
     testParameterFiles:
       - /test.json
+    authors:
+      - name: Kathy
