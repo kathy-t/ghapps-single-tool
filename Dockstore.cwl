@@ -18,7 +18,7 @@ dct:creator:
 
 requirements:
 - class: DockerRequirement
-  dockerPull: quay.io/kathy_t/dockstore-tool-helloworld:1
+  dockerPull: quay.io/calico/node:v3.23.0-0.dev-417-g89b438f573e2
 
 inputs:
   template_file:
